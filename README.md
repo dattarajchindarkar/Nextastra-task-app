@@ -75,7 +75,7 @@ SQLite is used as the lightweight database.
 
 **Repository:** https://github.com/dattarajchindarkar/Nextastra-task-app
 
-**Public Application URL:** Add the latest working Cloudflare HTTPS URL here.
+**Public Application URL:** https://cloudy-rec-person-scope.trycloudflare.com
 
 **Local Application URL:** http://localhost
 
