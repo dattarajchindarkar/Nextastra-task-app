@@ -75,7 +75,7 @@ SQLite is used as the lightweight database.
 
 **Repository:** https://github.com/dattarajchindarkar/Nextastra-task-app
 
-**Public Application URL:** https://maternity-bishop-pursuit-dialog.trycloudflare.com/
+**Public Application URL:** https://major-capabilities-separately-largely.trycloudflare.com
 
 **Local Application URL:** http://localhost
 
